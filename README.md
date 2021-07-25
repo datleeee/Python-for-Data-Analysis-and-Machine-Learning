@@ -1,3 +1,3 @@
 # Python-for-Data-Analysis-and-Machine-Learning
 
-This contains all the assignments I had every week, during a practical course at the Technical University Munich. 
+Collection of all assignments during the course "Python for Engineering Data Analysis - from Machine Learning to Visualization" at the TU Munich.
